@@ -12,8 +12,8 @@ namespace Point2D_and_Point3D
 
         public Point2D()
         {
-            x = 0;
-            y = 0;
+            this.x = 0;
+            this.y = 0;
         }
         public Point2D(float x, float y)
         {

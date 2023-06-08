@@ -12,7 +12,7 @@ namespace Point2D_and_Point3D
 
         public Point3D() : base()
         {
-            z = 0;
+            this.z = 0;
         }
         public Point3D(float x, float y, float z) : base(x, y)
         {

@@ -1,0 +1,7 @@
+E:\SUMMER_2023\C#\csharp_day5\Point2D and Point3D\Point2D and Point3D\bin\Debug\Point2D and Point3D.exe.config
+E:\SUMMER_2023\C#\csharp_day5\Point2D and Point3D\Point2D and Point3D\bin\Debug\Point2D and Point3D.exe
+E:\SUMMER_2023\C#\csharp_day5\Point2D and Point3D\Point2D and Point3D\bin\Debug\Point2D and Point3D.pdb
+E:\SUMMER_2023\C#\csharp_day5\Point2D and Point3D\Point2D and Point3D\obj\Debug\Point2D and Point3D.csproj.AssemblyReference.cache
+E:\SUMMER_2023\C#\csharp_day5\Point2D and Point3D\Point2D and Point3D\obj\Debug\Point2D and Point3D.csproj.CoreCompileInputs.cache
+E:\SUMMER_2023\C#\csharp_day5\Point2D and Point3D\Point2D and Point3D\obj\Debug\Point2D and Point3D.exe
+E:\SUMMER_2023\C#\csharp_day5\Point2D and Point3D\Point2D and Point3D\obj\Debug\Point2D and Point3D.pdb

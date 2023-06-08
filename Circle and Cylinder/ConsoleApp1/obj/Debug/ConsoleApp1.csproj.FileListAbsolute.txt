@@ -1,0 +1,7 @@
+E:\SUMMER_2023\C#\csharp_day5\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\SUMMER_2023\C#\csharp_day5\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\SUMMER_2023\C#\csharp_day5\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\SUMMER_2023\C#\csharp_day5\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\SUMMER_2023\C#\csharp_day5\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\SUMMER_2023\C#\csharp_day5\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\SUMMER_2023\C#\csharp_day5\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
